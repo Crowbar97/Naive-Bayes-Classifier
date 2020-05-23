@@ -1,5 +1,5 @@
 # Naive-Bayes-Classifier
-This repository provides _Python_ implementation of _Naive Bayes_ classifier
+This repository provides _Python_ implementation of _Naive Bayes_ classifier with comprehensive visualisation
 
 Repository Status: _under development_
 
